@@ -1,0 +1,10 @@
+I-Logix-RPY-Archive version 8.6.0 * 2071527
+
+- filesTable = { IRPYRawContainer 
+	- size = 3;
+	- value = "ports-rpy-uml-cpp.rpy" ""
+	"ports-rpy-uml-cpp_rpy\\Default.sbs" "Default"
+	"ports-rpy-uml-cpp_rpy\\DefaultComponent.cmp" "DefaultComponent"
+	
+}
+

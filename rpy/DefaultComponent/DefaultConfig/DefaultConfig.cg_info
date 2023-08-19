@@ -1,0 +1,61 @@
+I-Logix-RPY-Archive version 8.6.0 * 2071527
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 8;
+	- value = "DefaultComponent\\DefaultConfig\\Client.cpp" 8.19.2023::20:34:1
+	"DefaultComponent\\DefaultConfig\\Client.h" 8.19.2023::20:34:1
+	"DefaultComponent\\DefaultConfig\\Default.cpp" 8.19.2023::20:34:1
+	"DefaultComponent\\DefaultConfig\\Default.h" 8.19.2023::20:34:1
+	"DefaultComponent\\DefaultConfig\\IPrint.cpp" 8.19.2023::20:34:1
+	"DefaultComponent\\DefaultConfig\\IPrint.h" 8.19.2023::20:34:1
+	"DefaultComponent\\DefaultConfig\\Server.cpp" 8.19.2023::20:34:1
+	"DefaultComponent\\DefaultConfig\\Server.h" 8.19.2023::20:34:1
+	
+}
+- size = 5;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Default.sbs";
+	- _subsystem = "Default";
+	- _class = "";
+	- _name = "Client";
+	- _id = GUID bc2f1521-3ae5-4a95-969d-bf4cae0c7b75;
+}
+- genTime = 8.19.2023::20:34:1;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "DefaultComponent.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID aa2c6e28-ae45-4ca5-a1bd-1cbfaf1f7ae2;
+}
+- genTime = 8.19.2023::20:34:1;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = "Default.sbs";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "Default";
+	- _id = GUID f826f63e-fcf6-4438-a3df-dc4124ec5a0e;
+}
+- genTime = 8.19.2023::20:34:1;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Default.sbs";
+	- _subsystem = "Default";
+	- _class = "";
+	- _name = "Server";
+	- _id = GUID 53954c16-ac23-4031-aaa8-5cf5f8059930;
+}
+- genTime = 8.19.2023::20:34:1;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Default.sbs";
+	- _subsystem = "Default";
+	- _class = "";
+	- _name = "IPrint";
+	- _id = GUID 1c49238b-84fa-4018-b366-7d536a917556;
+}
+- genTime = 8.19.2023::20:34:1;
+
